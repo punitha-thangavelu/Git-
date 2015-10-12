@@ -1,2 +1,2 @@
 # Git-
-This is the repository is git
+This is the repository of git
